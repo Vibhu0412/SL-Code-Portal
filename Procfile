@@ -1,0 +1,1 @@
+web: gunicorn SL_Code_Portal.wsgi --log-file -
